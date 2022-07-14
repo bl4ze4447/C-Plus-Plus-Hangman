@@ -10,7 +10,7 @@ Self-made string functions made for making the job easier
 >![My Image](ignore.png)
 
 
->![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+>>![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ```
 #define WRONGROWS 4         // <- SET THIS NUMBER TO THE NUMBERR OF 'WORDS' IN THE "wrongGuesses[]" TABLE MINUS ONE (we have 4 'words' there, we place here 3)
 #define WORDS 3            // <- THE SAME THING BUT DO IT FOR THE "words[]" TABLE
